@@ -1,13 +1,13 @@
-package com.springboot2.security;
+package com.security.up2_7;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Springboot2SecurityApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Springboot2SecurityApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

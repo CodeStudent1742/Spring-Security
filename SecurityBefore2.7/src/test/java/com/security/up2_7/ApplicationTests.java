@@ -1,10 +1,10 @@
-package com.springboot2.security;
+package com.security.up2_7;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Springboot2SecurityApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
