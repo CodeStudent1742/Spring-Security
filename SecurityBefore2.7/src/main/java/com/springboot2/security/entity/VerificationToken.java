@@ -1,4 +1,4 @@
-package pl.bykowski.springboot2security.entity;
+package com.springboot2.security.entity;
 
 import javax.persistence.*;
 

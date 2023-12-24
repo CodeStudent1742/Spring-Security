@@ -1,13 +1,13 @@
-package pl.bykowski.springboot2security.controller;
+package com.springboot2.security.controller;
 
-import org.springframework.security.crypto.password.PasswordEncoder;
+
+import com.springboot2.security.entity.AppUser;
+import com.springboot2.security.service.UserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
-import pl.bykowski.springboot2security.entity.AppUser;
-import pl.bykowski.springboot2security.repo.AppUserRepo;
-import pl.bykowski.springboot2security.service.UserService;
+
 
 import javax.servlet.http.HttpServletRequest;
 
