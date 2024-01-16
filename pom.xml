@@ -6,6 +6,7 @@
 	<modules>
 		<module>SecurityTask1</module>
         <module>keycloack</module>
+        <module>jwt api</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
